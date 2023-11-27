@@ -1,0 +1,5 @@
+{
+  "executable": "C:\\cc65\\bin\\cl65",
+  "input": "ellie1.s",
+  "params": "--verbose --target nes -d -g -o ellie1.nes"
+}
